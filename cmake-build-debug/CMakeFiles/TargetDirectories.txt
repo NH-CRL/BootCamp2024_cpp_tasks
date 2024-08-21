@@ -1,0 +1,3 @@
+C:/myClion/BootCamp2024_cpp_tasks/cmake-build-debug/CMakeFiles/Hello_world.dir
+C:/myClion/BootCamp2024_cpp_tasks/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/myClion/BootCamp2024_cpp_tasks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
